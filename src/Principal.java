@@ -17,9 +17,10 @@ public class Principal {
         EscrituraRelleno relleno = new EscrituraRelleno();
         Scanner lectura = new Scanner(System.in);
 
-        System.out.println("Bienvenido a el conversor de divisas ; por favor seleccione una opcion");
+
         while (true) {
             try {
+                System.out.println("\n Bienvenido a el conversor de divisas ; por favor seleccione una opcion");
                 relleno.escribirMenu();
                 System.out.println("Ingresa tu Eleccion: ");
                 int eleccion01 = lectura.nextInt();

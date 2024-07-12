@@ -3,8 +3,24 @@
     "Moneda Nativa": "USD",
     "Moneda Seleccionada": "COP",
     "Tasa De Cambio": 3983.5109,
-    "Cantidad Seleccionada": 200.0,
-    "Total De Conversion": 796702.18,
-    "Registro: ": "[12-07-2024 15:37:33]"
+    "Cantidad Seleccionada": 300.0,
+    "Total De Conversion": 1195053.27,
+    "Registro: ": "[12-07-2024 17:50:44]"
+  },
+  {
+    "Moneda Nativa": "COP",
+    "Moneda Seleccionada": "USD",
+    "Tasa De Cambio": 2.5104E-4,
+    "Cantidad Seleccionada": 800000.0,
+    "Total De Conversion": 200.832,
+    "Registro: ": "[12-07-2024 17:53:17]"
+  },
+  {
+    "Moneda Nativa": "XDR",
+    "Moneda Seleccionada": "COP",
+    "Tasa De Cambio": 5266.168,
+    "Cantidad Seleccionada": 600.0,
+    "Total De Conversion": 3159700.8,
+    "Registro: ": "[12-07-2024 17:55:27]"
   }
 ]
